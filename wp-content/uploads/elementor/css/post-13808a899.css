@@ -1,0 +1,23 @@
+.elementor-13808 .elementor-element.elementor-element-b478f05{color:#0A114D;}.elementor-13808 .elementor-element.elementor-element-a6fc24a{--spacer-size:35px;}.elementor-13808 .elementor-element.elementor-element-53a5bf1{--iteration-count:infinite;--animation-duration:1200ms;--dynamic-text-color:var( --e-global-color-accent );}.elementor-13808 .elementor-element.elementor-element-53a5bf1 .elementor-headline{text-align:center;}.elementor-13808 .elementor-element.elementor-element-53a5bf1 .elementor-headline-plain-text{color:#303B21;}.elementor-13808 .elementor-element.elementor-element-e9dee32{--spacer-size:35px;}.elementor-13808 .elementor-element.elementor-element-8e14b0d{--spacer-size:35px;}.elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-link-wrapper, 
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-custom-grid .ecs-post-loop,
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .elementor, 
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .elementor .elementor-inner, 
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .elementor .elementor-inner .elementor-section-wrap, 
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .elementor .elementor-section-wrap,
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .elementor > .elementor-section,
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .elementor > .e-container,
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .ecs-link-wrapper > .elementor > .e-container,
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .ecs-link-wrapper > .elementor > .elementor-section,
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-link-wrapper > .has-post-thumbnail, .ecs-link-wrapper > .has-post-thumbnail > .elementor-section,
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .has-post-thumbnail, .ecs-post-loop > .has-post-thumbnail > .elementor-section,
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .elementor .elementor-inner .elementor-section-wrap .elementor-top-section,  
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .elementor .elementor-section-wrap .elementor-top-section, 
+            .elementor-13808 .elementor-element.elementor-element-3c48fbe .ecs-post-loop > .elementor .elementor-container{height:auto;}.elementor-13808 .elementor-element.elementor-element-3c48fbe .elementor-post{height:auto;}.elementor-13808 .elementor-element.elementor-element-3c48fbe{--grid-column-gap:11px;--grid-row-gap:7px;}/* Start custom CSS */.elementor-posts--skin-classic h4 {font-size: calc(18px + 3 * ((100vw - 320px) / 1600)) !important;
+    font-family: 'IBM Plex Serif' !important;
+    font-weight: 700 !important;color:#303B21 !important;}
+    .elementor-posts--skin-classic h4 a {font-size: calc(18px + 3 * ((100vw - 320px) / 1600)) !important;
+    font-family: 'IBM Plex Serif' !important;
+    font-weight: 700 !important;color:#303B21 !important;}
+
+.elementor-posts--skin-classic .elementor-post__excerpt p {font-size: calc(16px + 3 * ((100vw - 320px) / 1600));
+    font-family: 'IBM Plex Serif' !important;color:#303B21;}/* End custom CSS */
